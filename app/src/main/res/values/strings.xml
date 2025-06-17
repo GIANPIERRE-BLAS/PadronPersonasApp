@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Sistema de Gestión de Personas</string>
+
+    <string name="buscar_hint">Buscar por nombre o documento</string>
+    <string name="btn_consultar">CONSULTAR</string>
+    <string name="btn_nuevo_persona">NUEVO PERSONA</string>
+    <string name="total_registros">Total de registros: %d</string>
+    <string name="registros_encontrados">Registros encontrados: %d</string>
+
+    <string name="titulo_campos_obligatorios">CAMPOS OBLIGATORIOS</string>
+    <string name="titulo_campos_opcionales">CAMPOS OPCIONALES</string>
+
+    <string name="hint_nombre_completo">Nombre Completo *</string>
+    <string name="hint_documento">Documento de Identidad *</string>
+    <string name="hint_telefono">Teléfono *</string>
+    <string name="hint_direccion">Dirección *</string>
+
+    <string name="label_estado_civil">Estado Civil:</string>
+    <string name="rb_soltero">Soltero(a)</string>
+    <string name="rb_casado">Casado(a)</string>
+    <string name="rb_divorciado">Divorciado(a)</string>
+    <string name="rb_viudo">Viudo(a)</string>
+
+    <string name="label_distrito">Distrito:</string>
+    <string name="distrito_seleccionar">Seleccionar distrito</string>
+    <string name="distrito_san_isidro">San Isidro</string>
+    <string name="distrito_miraflores">Miraflores</string>
+    <string name="distrito_surco">Surco</string>
+    <string name="distrito_la_molina">La Molina</string>
+    <string name="distrito_barranco">Barranco</string>
+    <string name="distrito_san_borja">San Borja</string>
+
+    <string name="label_genero">Género:</string>
+    <string name="cb_masculino">Masculino</string>
+    <string name="cb_femenino">Femenino</string>
+
+    <string name="btn_grabar">GRABAR</string>
+
+    <string name="campos_faltantes">Faltan los siguientes campos obligatorios:\n%s</string>
+    <string name="campo_nombre">- Nombre Completo\n</string>
+    <string name="campo_documento">- Documento de Identidad\n</string>
+    <string name="campo_telefono">- Teléfono\n</string>
+    <string name="campo_direccion">- Dirección\n</string>
+
+    <string name="titulo_error">Error</string>
+    <string name="titulo_exito">Éxito</string>
+    <string name="titulo_confirmacion">Confirmar Registro</string>
+
+    <string name="mensaje_documento_existe">El documento de identidad ya existe en el sistema. Por favor, ingrese otro documento.</string>
+    <string name="mensaje_confirmacion">¿Está seguro de que desea registrar esta persona?\n\nNombre: %1$s\nDocumento: %2$s</string>
+    <string name="mensaje_exito">La persona se registró correctamente.</string>
+    <string name="mensaje_error_registro">No se pudo registrar la persona. Intente nuevamente.</string>
+
+    <string name="btn_si">SÍ</string>
+    <string name="btn_no">NO</string>
+    <string name="btn_ok">OK</string>
+
+    <string name="formato_documento">Doc: %s</string>
+    <string name="formato_telefono">Tel: %s</string>
+    <string name="formato_direccion">Dir: %s</string>
+    <string name="formato_distrito">Distrito: %s</string>
+
+    <string name="view">Ver detalles</string>
+    <string name="edit">Editar persona</string>
+    <string name="delete">Eliminar persona</string>
+</resources>
